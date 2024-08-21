@@ -29,7 +29,7 @@ margin-bottom: 15px;
 padding-left: 30px;
 }
 a {
-    color: #0277bd ;
+    color: #000 ;
     text-decoration: none ;
 }
 .imagem-topico{
@@ -41,7 +41,7 @@ a {
 }
 /*Estilo das páginas */
 .conteudo-artigo {
-    background-color: #fff;
+    background-color: #000;
     border-radius: 10px;
     padding: 30px;
 
